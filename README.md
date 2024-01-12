@@ -1,6 +1,6 @@
 Hello my friends,
 Here with you shamam and its humble library.
-shamam specializes in information systems, but her passion and love for computers and technology exceeds the limits of specialization. Therefore, in this simple library, you will find various files of projects and codes in various disciplines related to computers, its materials and programming languages.
-So I hope to use it with absolute comfort, with what suits you honestly.
+A Data Analyst with high technical expertise and skills in data analysis within machine learning and artificial intelligence. Passionate and interested in Deep Learning technologies, and hard working on using these technologies to improve the user experience in various sectors. Interest and focus on developing smart cities and industrial automation. Always passionate about research, guiding and teaching students, and helping others.
+So I hope to use it with absolute comfort.
 I am always available for any inquiries.
 
