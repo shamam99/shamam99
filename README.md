@@ -81,17 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamam99/shamam99/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamam99/shamam99/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shamam99/shamam99/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -110,8 +99,3 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/shamam99/shamam99/output/snake.svg" alt="Snake animation" />
-
-###
