@@ -109,3 +109,9 @@
 </div>
 
 ###
+
+###
+
+<img src="https://raw.githubusercontent.com/shamam99/shamam99/output/snake.svg" alt="Snake animation" />
+
+###
