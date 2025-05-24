@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **kafri.shamam@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1QHesVeeO10_ePPkJQFlu47Hb3DiIMfXy/view?usp=drivesdk](https://drive.google.com/file/d/1QHesVeeO10_ePPkJQFlu47Hb3DiIMfXy/view?usp=drivesdk)
+- 📄 [Resume](https://drive.google.com/file/d/1QHesVeeO10_ePPkJQFlu47Hb3DiIMfXy/view?usp=drivesdk)
   
 </p>
 
