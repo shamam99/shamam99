@@ -8,6 +8,7 @@
 
 ###
 
+<h3 align="left">How to reach me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/shamm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -27,8 +28,6 @@
 ###
 
 <p align="left">I'm Shamam <br><br>Living in Saudi Arabia<br><br>A passionate full-stack developer, iOS engineer, and AI mentor with 3+ years of real-world experience across industry, freelancing, and training.<br><br><br><br>🔭 I’m currently working on Aware a Swift-based accessibility app that detects keywords in background audio for smart alerts [App Store launch: 2025]<br>And working on Mentora a gamified learning app using PDF + AI model (T5 + Transformers) for question generation<br><br>🌱 Currently learning - ASP.NET and modern Microsoft backend stacks - Clean Architecture in Swift + Combine - Advanced CoreML and custom on-device ML pipelines<br><br>⚡ I'm Open To <br>- Collaborating on iOS + AI projects <br>- Leading training sessions in Multiple fields <br>- Consulting on project architecture, especially in education.<br><br>All of my Standalone and teamwork Public projects are available at my GitHub.<br><br>Ask me about - SwiftUI, CreateML - Node.js + Express + MongoDB - ML & NLP with Python, TensorFlow - Git, GitHub, and team dev best practices and I will be there. 🏃🏼‍♀️‍➡️
-
-- 📫 How to reach me **kafri.shamam@gmail.com**
 
 - 📄 [Resume](https://drive.google.com/file/d/1QHesVeeO10_ePPkJQFlu47Hb3DiIMfXy/view?usp=drivesdk)
   
